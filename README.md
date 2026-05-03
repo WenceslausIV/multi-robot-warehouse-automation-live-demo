@@ -8,7 +8,7 @@ This repository contains the implementation of a ROS-based multi-robot safe cont
 * **Sim-to-Real Deployment:** Bridged the simulation gap by developing the ROS-based architecture on physical mobile robots.
 * **Industry Validation:** Demonstrated live for Honeywell in a physical, simulated warehouse setting, proving my framework's reliability in a practical industrial use case.
 
-## 🎥 Demonstrations
+## 🎥 Demonstration
 ![demo](https://github.com/user-attachments/assets/adee171a-effe-47e0-a881-a4985c7b15a2)
 
 The algorithms are built on a modified Robotarium Python implementation originally provided by [Georgia Tech](https://www.robotarium.gatech.edu/).
